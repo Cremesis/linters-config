@@ -53,18 +53,24 @@ Metrics/AbcSize:
 
 Metrics/BlockLength:
   Max: 100
+  Exclude:
+    - test/**/*.rb
 
 Metrics/BlockNesting:
   Max: 4
 
 Metrics/ClassLength:
   Max: 1000
+  Exclude:
+    - test/**/*.rb
 
 Metrics/CyclomaticComplexity:
   Max: 25
 
 Metrics/MethodLength:
   Max: 100
+  Exclude:
+    - test/**/*.rb
 
 Metrics/ModuleLength:
   Max: 1000
