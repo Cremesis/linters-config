@@ -20,6 +20,7 @@ Layout/ArgumentAlignment:
 Layout/DotPosition:
   EnforcedStyle: trailing
 
+
 Layout/EmptyLinesAroundBlockBody:
   EnforcedStyle: no_empty_lines
 
