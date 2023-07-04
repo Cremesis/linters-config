@@ -17,7 +17,7 @@ AllCops:
 Layout/ArgumentAlignment:
   EnforcedStyle: with_fixed_indentation
 
-Layout/DotPosition
+Layout/DotPosition:
   EnforcedStyle: trailing
 
 Layout/EmptyLinesAroundBlockBody:
