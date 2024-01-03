@@ -51,6 +51,9 @@ Layout/MultilineOperationIndentation:
 Layout/ParameterAlignment:
   EnforcedStyle: with_fixed_indentation
 
+Lint/NestedMethodDefinition:
+  AllowedMethods: ['plucker']
+
 Metrics/AbcSize:
   Enabled: false
 
