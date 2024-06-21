@@ -119,9 +119,6 @@ Rails/OutputSafety:
 Rails/RakeEnvironment:
   Enabled: false
 
-Rails/SafeNavigation:
-  ConvertTry: true
-
 Rails/SkipsModelValidations:
   Enabled: false
 
